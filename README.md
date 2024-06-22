@@ -1,5 +1,5 @@
 
-### Robots for Good
+### Robots For Good
 # Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
 
 
